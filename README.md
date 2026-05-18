@@ -17,7 +17,7 @@
 
 ## 🙋 About Me
 
-- 🎓 **LG전자 DX School 1기** 수료 (Team. 바잇킹 — RunInk 프로젝트)
+- 🎓 **LG전자 DX School 1기** 수료 (Team. 바잇킹 — RunInk 프로젝트 **최우수상**)
 - 💻 **Flutter / SwiftUI** 모바일 개발 + **FastAPI / Firebase** 백엔드 경험
 - 📊 SNS 3만 건 크롤링 → NLP 토픽 모델링 → PCA·계층 클러스터링까지 **데이터 기반 사고**
 - 🚀 **App Store 출시 경험** (ChuckChuck v1.0 → v1.2)
