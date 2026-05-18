@@ -98,9 +98,31 @@
 
 ## 📂 Other Projects
 
+### 🗺 [Routour — 광주·전남·전북 여행 추천 앱](https://github.com/jinho3501/Routour) 🚧 WIP
+
+> RunInk(setState)의 한계를 극복하기 위해 **처음부터 MVVM + Repository + Provider**를 도입한 후속 학습 프로젝트
+
+<p>
+  <img src="https://img.shields.io/badge/status-🚧%20WIP-orange"/>
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Provider-MVVM-purple"/>
+  <img src="https://img.shields.io/badge/TourAPI-한국관광공사-2C5F2D"/>
+</p>
+
+- **6축 설문 모델** — 지역·동행인·기간·컨셉·스타일·이동수단을 enum 기반 type-safe 도메인으로 설계
+- **AuthGate 패턴** — `StreamBuilder<User?>` + `authStateChanges()`로 로그인 상태 자동 라우팅 + `ensureUserDoc` 1회 보장
+- **Repository pattern** — Firestore + 외부 API(한국관광공사 TourAPI 3종)를 추상화
+- **DB code / UI label 분리** — `('광주광역시', 'gwangju')` 패턴으로 라벨 변경에도 DB 안정
+
+🔗 [README](https://github.com/jinho3501/Routour#readme) · [SETUP](https://github.com/jinho3501/Routour/blob/main/SETUP.md)
+
+---
+
+### 📱 추가 프로젝트
+
 | 프로젝트 | 언어 | 한 줄 설명 | 링크 |
 |---|---|---|---|
-| 🗺 **Routour** | Flutter (MVVM) | 라우팅·여행 컨셉의 Flutter 앱 (v1.0에서 ViewModel 패턴 도입) | [Repo](https://github.com/jinho3501/Routour) |
 | 📝 **SCHE** | Swift | "돌아서면 까먹는 나를 위한" 메모 서비스 | [Repo](https://github.com/jinho3501/SCHE) |
 | 🎨 **Filter** | Swift | 이미지 필터 실습 프로젝트 | [Repo](https://github.com/jinho3501/Filter) |
 
