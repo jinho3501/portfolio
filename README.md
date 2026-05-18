@@ -20,8 +20,8 @@
 - 🎓 **LG전자 DX School 1기** 수료 (Team. 바잇킹 — RunInk 프로젝트)
 - 💻 **Flutter / SwiftUI** 모바일 개발 + **FastAPI / Firebase** 백엔드 경험
 - 📊 SNS 3만 건 크롤링 → NLP 토픽 모델링 → PCA·계층 클러스터링까지 **데이터 기반 사고**
-- 🚀 **App Store 출시 경험** (ChuckChuck v1.0 → v1.1)
-- 🛠 Flutter 30개 화면 + 자체 백엔드(FastAPI + AWS EC2/S3/RDS) **풀스택 운영 경험**
+- 🚀 **App Store 출시 경험** (ChuckChuck v1.0 → v1.2)
+- 🛠 Flutter 30개 화면 + 백엔드(FastAPI + AWS EC2/S3/RDS) **풀스택 운영 경험**
 
 > 추가 학력·경력 정보는 [📑 포트폴리오 PDF](포트폴리오(임진호).pdf)에서 확인하실 수 있습니다.
 
@@ -158,11 +158,7 @@
 
 ## 📬 연락처
 
-> 진호님께서 직접 채워주세요 — 아래는 placeholder입니다.
-
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: `https://linkedin.com/in/...`
-- 📱 Phone: `010-xxxx-xxxx`
+- 📧 Email: `njlcs3501@naver.com`
 
 ---
 
